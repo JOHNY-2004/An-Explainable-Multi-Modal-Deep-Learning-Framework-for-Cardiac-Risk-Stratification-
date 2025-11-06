@@ -1,4 +1,3 @@
-# ---- core ----
 streamlit==1.39.0
 numpy==1.26.4
 pandas==2.2.2
@@ -6,20 +5,17 @@ scikit-learn==1.4.2
 scipy==1.12.0
 joblib==1.4.2
 
-# ---- viz ----
 matplotlib==3.8.4
 seaborn==0.13.2
 plotly==5.24.1
 
-# ---- ML ----
 xgboost==2.0.3
 shap==0.44.1
 
-# ---- imaging (only if used by the UI) ----
+# imaging (include only if you actually import them in app.py)
 nibabel==5.2.1
 SimpleITK==2.3.1
 opencv-python-headless==4.10.0.84
 
-# ---- tensorflow (only if your Streamlit app actually imports it at runtime) ----
-# If you need TF for inference in the app, use CPU wheel compatible with Py3.10 + NumPy 1.x
-tensorflow-cpu==2.15.0
+# If you REALLY need TF in the app (CPU wheel for Py3.10):
+# tensorflow-cpu==2.15.0
