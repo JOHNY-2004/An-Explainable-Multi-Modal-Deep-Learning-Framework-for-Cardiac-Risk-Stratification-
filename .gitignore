@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data & Outputs
+emidec_data/
+predicted_masks/
+gradcam_results/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+*.DS_Store
+
+# Large artifacts (prefer LFS or external hosting)
+*.h5
+*.pt
+*.pth
+*.pkl
+*.onnx
+*.safetensors
+*.nii
+*.nii.gz
+

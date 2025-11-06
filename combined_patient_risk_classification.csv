@@ -1,0 +1,151 @@
+PatientID,Risk_Category,Risk_Score,Reasoning,Age,LVEF,Troponin,NTProBNP
+006,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.1) indicates myocardial injury.,70.0,60.0,1.1,248.0
+012,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.8) indicates myocardial injury.,33.0,60.0,2.8,89.0
+013,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.35) indicates myocardial injury.,40.0,60.0,0.35,1133.0
+014,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.7) indicates myocardial injury.,66.0,55.0,2.7,78.0
+016,Moderate Risk,1,NT-proBNP of 192.0 is moderately elevated for age 76.0.,76.0,60.0,14.0,192.0
+018,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (4.5) indicates myocardial injury.,67.0,45.0,4.5,682.0
+020,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.7) indicates myocardial injury.,78.0,62.0,1.7,1475.0
+023,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.4) indicates myocardial injury.,61.0,44.0,0.4,3071.0
+024,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.1) indicates myocardial injury.,71.0,35.0,0.1,7598.0
+025,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.5) indicates myocardial injury.,67.0,60.0,0.5,202.0
+027,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.5) indicates myocardial injury.,45.0,65.0,2.5,107.0
+030,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.58) indicates myocardial injury.,66.0,60.0,0.58,1923.0
+032,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (5.1) indicates myocardial injury.,57.0,40.0,5.1,3934.0
+033,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (6.2) indicates myocardial injury.,88.0,60.0,6.2,857.0
+034,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.8) indicates myocardial injury.,78.0,35.0,1.8,22577.0
+037,High Risk (Chronic Heart Failure),2,"LVEF is 25.0 (<= 40%), indicating severely reduced function.",71.0,25.0,12.0,907.0
+040,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (6.4) indicates myocardial injury.,61.0,60.0,6.4,4507.0
+041,High Risk (Chronic Heart Failure),2,"LVEF is 27.0 (<= 40%), indicating severely reduced function.",70.0,27.0,13.0,288.0
+042,Moderate Risk,1,"LVEF is 50.0 (41-54%), indicating mildly reduced function.",72.0,50.0,13.0,570.0
+046,Moderate Risk,1,NT-proBNP of 266.0 is moderately elevated for age 65.0.,65.0,59.0,14.0,266.0
+048,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.5) indicates myocardial injury.,70.0,60.0,2.5,1137.0
+049,High Risk (Chronic Heart Failure),2,"NT-proBNP of 991.0 is very high for age 68.0, indicating severe heart stress.",68.0,50.0,30.0,991.0
+052,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.0) indicates myocardial injury.,85.0,38.0,2.0,781.0
+054,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.3) indicates myocardial injury.,83.0,65.0,1.3,307.0
+058,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (7.9) indicates myocardial injury.,65.0,60.0,7.9,410.0
+065,Low Risk,0,"LVEF (60.0), Troponin (19.0), and NT-proBNP (71.0) are all within normal limits for age 57.0.",57.0,60.0,19.0,71.0
+068,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (9.0) indicates myocardial injury.,39.0,60.0,9.0,23.0
+070,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.1) indicates myocardial injury.,69.0,50.0,1.1,7424.0
+075,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (9.9) indicates myocardial injury.,65.0,65.0,9.9,60.0
+079,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.2) indicates myocardial injury.,79.0,33.0,0.2,5228.0
+083,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.0) indicates myocardial injury.,79.0,30.0,2.0,422.0
+084,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (4.7) indicates myocardial injury.,57.0,40.0,4.7,2929.0
+089,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.9) indicates myocardial injury.,76.0,35.0,0.9,8257.0
+001,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (130.0) indicates myocardial injury.,32.0,35.0,130.0,447.0
+002,Moderate Risk,1,NT-proBNP of 192.0 is moderately elevated for age 57.0.,57.0,61.0,28.0,192.0
+003,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (7.0) indicates myocardial injury.,67.0,55.0,7.0,54.0
+004,High Risk (Chronic Heart Failure),2,"LVEF is 40.0 (<= 40%), indicating severely reduced function.",68.0,40.0,45.0,1075.0
+005,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (7.0) indicates myocardial injury.,62.0,55.0,7.0,1024.0
+007,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (200.0) indicates myocardial injury.,66.0,45.0,200.0,532.0
+008,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (410.0) indicates myocardial injury.,45.0,50.0,410.0,50.0
+009,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (120.0) indicates myocardial injury.,60.0,50.0,120.0,135.0
+010,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (83.0) indicates myocardial injury.,68.0,60.0,83.0,42.0
+011,High Risk (Chronic Heart Failure),2,"NT-proBNP of 2270.0 is very high for age 79.0, indicating severe heart stress.",79.0,60.0,39.0,2270.0
+015,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (410.0) indicates myocardial injury.,56.0,40.0,410.0,571.0
+017,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (88.0) indicates myocardial injury.,75.0,50.0,88.0,2871.0
+019,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (87.0) indicates myocardial injury.,52.0,20.0,87.0,7139.0
+021,Low Risk,0,"LVEF (60.0), Troponin (33.0), and NT-proBNP (37.0) are all within normal limits for age 29.0.",29.0,60.0,33.0,37.0
+022,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (170.0) indicates myocardial injury.,53.0,60.0,170.0,43.0
+026,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (6.3) indicates myocardial injury.,38.0,64.0,6.3,38.0
+028,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (180.0) indicates myocardial injury.,61.0,25.0,180.0,2213.0
+029,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (180.0) indicates myocardial injury.,64.0,65.0,180.0,81.0
+031,Moderate Risk,1,"LVEF is 50.0 (41-54%), indicating mildly reduced function.",73.0,50.0,14.0,51.0
+035,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (150.0) indicates myocardial injury.,44.0,60.0,150.0,62.0
+036,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (120.0) indicates myocardial injury.,53.0,35.0,120.0,85.0
+038,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (62.0) indicates myocardial injury.,53.0,56.0,62.0,1480.0
+039,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (160.0) indicates myocardial injury.,45.0,30.0,160.0,31.0
+043,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (160.0) indicates myocardial injury.,64.0,30.0,160.0,31.0
+044,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (170.0) indicates myocardial injury.,55.0,35.0,170.0,2646.0
+045,Low Risk,0,"LVEF (65.0), Troponin (46.0), and NT-proBNP (47.0) are all within normal limits for age 54.0.",54.0,65.0,46.0,47.0
+047,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (201.0) indicates myocardial injury.,47.0,45.0,201.0,350.0
+050,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (290.0) indicates myocardial injury.,54.0,50.0,290.0,50.0
+051,Moderate Risk,1,NT-proBNP of 351.0 is moderately elevated for age 89.0.,89.0,62.0,19.0,351.0
+053,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (100.0) indicates myocardial injury.,61.0,20.0,100.0,3904.0
+055,Moderate Risk,1,NT-proBNP of 179.0 is moderately elevated for age 66.0.,66.0,64.0,27.0,179.0
+056,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.3) indicates myocardial injury.,53.0,70.0,0.3,38.0
+057,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (3.4) indicates myocardial injury.,69.0,45.0,3.4,1052.0
+059,High Risk (Chronic Heart Failure),2,"LVEF is 20.0 (<= 40%), indicating severely reduced function.",62.0,20.0,41.0,490.0
+060,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (160.0) indicates myocardial injury.,58.0,55.0,160.0,453.0
+061,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (210.0) indicates myocardial injury.,60.0,42.0,210.0,273.0
+062,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (94.0) indicates myocardial injury.,79.0,45.0,94.0,7769.0
+063,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (57.0) indicates myocardial injury.,63.0,65.0,57.0,71.0
+064,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (201.0) indicates myocardial injury.,51.0,45.0,201.0,73.0
+066,High Risk (Chronic Heart Failure),2,"NT-proBNP of 1775.0 is very high for age 71.0, indicating severe heart stress.",71.0,52.0,14.0,1775.0
+067,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (140.0) indicates myocardial injury.,58.0,60.0,140.0,50.0
+069,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (120.0) indicates myocardial injury.,45.0,55.0,120.0,649.0
+071,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (58.0) indicates myocardial injury.,45.0,50.0,58.0,38.0
+072,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (180.0) indicates myocardial injury.,64.0,60.0,180.0,75.0
+073,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (420.0) indicates myocardial injury.,68.0,30.0,420.0,1491.0
+074,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (150.0) indicates myocardial injury.,46.0,65.0,150.0,50.0
+076,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (190.0) indicates myocardial injury.,54.0,65.0,190.0,115.0
+077,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (220.0) indicates myocardial injury.,67.0,55.0,220.0,78.0
+078,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (190.0) indicates myocardial injury.,73.0,30.0,190.0,1268.0
+080,Low Risk,0,"LVEF (55.0), Troponin (26.0), and NT-proBNP (65.0) are all within normal limits for age 57.0.",57.0,55.0,26.0,65.0
+081,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (110.0) indicates myocardial injury.,67.0,55.0,110.0,47.0
+082,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.9) indicates myocardial injury.,56.0,45.0,0.9,1143.0
+085,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (5.2) indicates myocardial injury.,63.0,68.0,5.2,1690.0
+086,High Risk (Chronic Heart Failure),2,"LVEF is 25.0 (<= 40%), indicating severely reduced function.",64.0,25.0,13.0,3711.0
+087,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (5.2) indicates myocardial injury.,62.0,47.0,5.2,2989.0
+088,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (100.0) indicates myocardial injury.,60.0,65.0,100.0,110.0
+090,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (170.0) indicates myocardial injury.,54.0,45.0,170.0,68.0
+091,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (76.0) indicates myocardial injury.,61.0,35.0,76.0,1277.0
+092,High Risk (Chronic Heart Failure),2,"LVEF is 40.0 (<= 40%), indicating severely reduced function.",73.0,40.0,29.0,907.0
+093,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (64.0) indicates myocardial injury.,66.0,50.0,64.0,3135.0
+094,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (3.9) indicates myocardial injury.,61.0,46.0,3.9,5810.0
+095,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (201.0) indicates myocardial injury.,48.0,52.0,201.0,28.0
+096,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (88.0) indicates myocardial injury.,49.0,50.0,88.0,15.0
+097,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (380.0) indicates myocardial injury.,41.0,50.0,380.0,14.0
+098,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (210.0) indicates myocardial injury.,54.0,40.0,210.0,221.0
+099,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (150.0) indicates myocardial injury.,30.0,35.0,150.0,329.0
+100,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (110.0) indicates myocardial injury.,65.0,55.0,110.0,36.0
+101,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (4.0) indicates myocardial injury.,50.0,55.0,4.0,39.0
+102,High Risk (Chronic Heart Failure),2,"NT-proBNP of 991.0 is very high for age 67.0, indicating severe heart stress.",67.0,50.0,30.0,991.0
+103,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (6.7) indicates myocardial injury.,74.0,35.0,6.7,5627.0
+104,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.0) indicates myocardial injury.,54.0,45.0,1.0,68.0
+105,High Risk (Chronic Heart Failure),2,"LVEF is 21.0 (<= 40%), indicating severely reduced function.",54.0,21.0,25.0,4153.0
+106,High Risk (Chronic Heart Failure),2,"LVEF is 32.0 (<= 40%), indicating severely reduced function.",74.0,32.0,10.0,8757.0
+107,High Risk (Chronic Heart Failure),2,"LVEF is 22.0 (<= 40%), indicating severely reduced function.",77.0,22.0,21.0,4865.0
+108,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (270.0) indicates myocardial injury.,68.0,30.0,270.0,2474.0
+109,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (190.0) indicates myocardial injury.,34.0,35.0,190.0,227.0
+110,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (200.0) indicates myocardial injury.,49.0,45.0,200.0,29.0
+111,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (7.7) indicates myocardial injury.,67.0,56.0,7.7,1445.0
+112,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (66.0) indicates myocardial injury.,69.0,35.0,66.0,9970.0
+113,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.14) indicates myocardial injury.,71.0,35.0,0.14,7598.0
+114,Moderate Risk,1,NT-proBNP of 347.0 is moderately elevated for age 38.0.,38.0,62.0,11.0,347.0
+115,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.2) indicates myocardial injury.,47.0,50.0,0.2,3.0
+116,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.8) indicates myocardial injury.,64.0,25.0,1.8,2707.0
+117,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (83.0) indicates myocardial injury.,53.0,60.0,83.0,94.0
+118,High Risk (Chronic Heart Failure),2,"LVEF is 40.0 (<= 40%), indicating severely reduced function.",53.0,40.0,20.0,1322.0
+119,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (73.0) indicates myocardial injury.,66.0,70.0,73.0,159.0
+120,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (380.0) indicates myocardial injury.,51.0,47.0,380.0,14.0
+121,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.7) indicates myocardial injury.,68.0,55.0,2.7,292.0
+122,High Risk (Chronic Heart Failure),2,"LVEF is 40.0 (<= 40%), indicating severely reduced function.",70.0,40.0,27.0,229.0
+123,Low Risk,0,"LVEF (65.0), Troponin (41.0), and NT-proBNP (100.0) are all within normal limits for age 80.0.",80.0,65.0,41.0,100.0
+124,Low Risk,0,"LVEF (60.0), Troponin (17.0), and NT-proBNP (67.0) are all within normal limits for age 56.0.",56.0,60.0,17.0,67.0
+125,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.3) indicates myocardial injury.,68.0,65.0,0.3,46.0
+126,High Risk (Chronic Heart Failure),2,"NT-proBNP of 2308.0 is very high for age 52.0, indicating severe heart stress.",52.0,50.0,29.0,2308.0
+127,High Risk (Chronic Heart Failure),2,"NT-proBNP of 4323.0 is very high for age 60.0, indicating severe heart stress.",60.0,50.0,10.0,4323.0
+128,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (200.0) indicates myocardial injury.,62.0,35.0,200.0,1073.0
+129,High Risk (Chronic Heart Failure),2,"LVEF is 30.0 (<= 40%), indicating severely reduced function.",78.0,30.0,15.0,4198.0
+130,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.69) indicates myocardial injury.,65.0,70.0,0.69,1572.0
+131,High Risk (Chronic Heart Failure),2,"LVEF is 40.0 (<= 40%), indicating severely reduced function.",56.0,40.0,20.0,41.0
+132,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (7.6) indicates myocardial injury.,85.0,30.0,7.6,2317.0
+133,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (4.7) indicates myocardial injury.,65.0,60.0,4.7,44.0
+134,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.66) indicates myocardial injury.,65.0,65.0,0.66,108.0
+135,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (100.0) indicates myocardial injury.,80.0,30.0,100.0,281.0
+136,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.28) indicates myocardial injury.,27.0,60.0,0.28,12.0
+137,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (0.9) indicates myocardial injury.,79.0,60.0,0.9,902.0
+138,Moderate Risk,1,NT-proBNP of 181.0 is moderately elevated for age 47.0.,47.0,55.0,17.0,181.0
+139,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.06) indicates myocardial injury.,85.0,25.0,1.06,147.0
+140,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (1.2) indicates myocardial injury.,69.0,20.0,1.2,2139.0
+141,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (61.0) indicates myocardial injury.,39.0,60.0,61.0,398.0
+142,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (90.0) indicates myocardial injury.,51.0,65.0,90.0,118.0
+143,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (6.8) indicates myocardial injury.,57.0,68.0,6.8,75.0
+144,Moderate Risk,1,NT-proBNP of 127.0 is moderately elevated for age 53.0.,53.0,60.0,24.0,127.0
+145,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.5) indicates myocardial injury.,66.0,45.0,2.5,6209.0
+146,High Risk (Chronic Heart Failure),2,"NT-proBNP of 2394.0 is very high for age 77.0, indicating severe heart stress.",77.0,55.0,32.0,2394.0
+147,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (200.0) indicates myocardial injury.,68.0,45.0,200.0,132.0
+148,High Risk (Chronic Heart Failure),2,"LVEF is 30.0 (<= 40%), indicating severely reduced function.",68.0,30.0,26.0,6462.0
+149,High Risk (Chronic Heart Failure),2,"LVEF is 35.0 (<= 40%), indicating severely reduced function.",85.0,35.0,20.0,781.0
+150,Very High Risk (Acute Cardiac Event),3,Acutely elevated Troponin (2.5) indicates myocardial injury.,58.0,45.0,2.5,6005.0
