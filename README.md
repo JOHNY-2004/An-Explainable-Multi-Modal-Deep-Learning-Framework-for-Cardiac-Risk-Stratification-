@@ -1,6 +1,7 @@
 # 🫀 An Explainable Multi-Modal Deep Learning Framework for Cardiac Risk Stratification
 
 ### 🧩 Overview
+This is the Web Application link of the Project:  https://heartriskstrat524.streamlit.app/
 
 This project presents an **explainable AI pipeline** for predicting patient-specific cardiac risk levels by integrating **cardiac MRI images** and **structured clinical data**.
 It combines deep learning–based **myocardial segmentation**, **radiomics feature extraction**, and **multi-modal risk prediction** using **XGBoost**, **Attention-based MLP**, and **SHAP + Grad-CAM explainability**.
